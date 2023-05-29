@@ -1,0 +1,188 @@
+body{
+background-color: wheat;
+font-family: 'Elsie Swash Caps', cursive;
+
+}
+#mainimg{
+    width: 1300px;
+    height: 500px;
+    
+    background-image: url(./images/food1main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   
+
+    
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    text-align: center;
+    
+   
+}
+.h21{
+    
+    font-size: 120px;
+    color: rgb(139, 94, 9);
+    font-family: 'Yatra One', cursive;
+    text-shadow: 8px 10px 9px rgb(7, 3, 3);
+    
+}
+.h31{
+    font-size: 40px;
+    font-family: 'Montez', cursive;
+    border: 2px solid red;
+    background-color: black;
+    color:rgb(216, 56, 12);
+}
+.div2{
+    background-color:bisque;
+    width: 400px;
+   
+}
+.h4{
+    text-align: center;
+    color:red
+}
+.row1{
+background-color: wheat;
+width:900px;
+height:500px;
+position: absolute;
+top: 85%;
+left: 410px;
+text-align: center;
+font-size:30px;
+border-radius: 5%;
+}
+.col2{
+    position: relative;
+    background-color: rgb(139, 94, 9);
+    width: 250px;
+    height:405px;
+    padding:20px ;
+    padding-top: 5px;
+    border-radius: 5%;
+    padding-left: 20px;
+
+}
+#font1{
+    font-size: 15px;
+}
+img{
+
+    width: 100%;
+    border-radius: 20%;
+    /* border:2px solid black; */
+    
+}
+p{
+    font-size: 15px;
+    text-align: justify;
+    
+}
+.col3{
+  background-color: rgb(139, 94, 9);
+  position: absolute;
+  width:270px ;
+  height:410px;
+  right:50px ;
+  top:10%;
+  border-radius: 5%;
+  padding: 20px;
+  padding-top: 15px;
+  border-radius: 5%;
+  padding-left: 20px;
+
+}
+.rower{
+    background-color: wheat;
+    width:1300px;
+    height:700px;
+    position: relative;
+    
+}
+.rower1{
+    background-color: rgb(192, 222, 196);
+    position: absolute;
+    width:200px;
+    height:420px;
+    margin-left: 0px;
+    padding: 20px;
+    top:0px;
+    left:100pxl;
+    
+}
+.rower2{
+    background-color: rgb(192, 222, 196);
+    position: absolute;
+    margin-left: 50px;
+    width:200px;
+    height:420px;
+    padding: 20px;
+    top:0px;
+    left:250px;
+    
+}
+.rower3{
+    background-color:rgb(192, 222, 196);
+    position: absolute;
+    margin-left: 150px;
+    padding: 20px;
+    width:220px;
+    height:420px ;
+    top:0px;
+    left:490px;
+    
+}
+.rower4{
+    background-color:rgb(192, 222, 196);
+    position: absolute;
+    margin-left: 250px;
+    padding: 20px;
+    width:200px;
+    height:420px;
+    top:0px;
+    left:750px;
+
+}
+.heads{
+    margin-left:-110px;
+    font-size: 30px;
+}
+.foot{
+    background-color:rgb(192, 222, 196);
+   
+    display: flex;
+    width: 1300px;
+}
+.contact{
+    width:300px;
+    height: 200px;
+    color: rgb(81, 12, 12);
+    margin:10px;
+    
+}
+.contact ul li{
+  list-style: none;
+}
+.imgs{
+    width:100px;
+     height:100px;
+}
+.img1{
+    width:80px;
+     height:80px;
+}
+.img2{
+    width:60px;
+     height:60px;
+}
+.nav{
+    text-decoration: none;
+    color: red;
+}
+.img4{
+    width:40px;
+     height:40px;
+}
